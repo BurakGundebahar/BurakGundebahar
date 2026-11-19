@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="thanks for stopping by">
+<defs><style>
+.p{opacity:0;animation:p 8s ease-in-out infinite}
+@keyframes p{0%{opacity:0}8%{opacity:.75}55%{opacity:.75}75%,100%{opacity:0}}
+.t{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+</style>
+<g id="paw"><ellipse cx="0" cy="4" rx="6" ry="5"/><circle cx="-6" cy="-4" r="2.4"/><circle cx="-2" cy="-7.5" r="2.4"/><circle cx="2.5" cy="-7.5" r="2.4"/><circle cx="6.5" cy="-4" r="2.4"/></g>
+</defs>
+<rect x="1" y="1" width="1198" height="108" rx="16" fill="#2c2e43" stroke="#4a4c68" stroke-width="2"/>
+<g fill="#b9b1c9" transform="translate(-40 -20) scale(1.4)">
+<use href="#paw" class="p" x="80" y="40" transform="rotate(80 80 40)" style="animation-delay:0s"/>
+<use href="#paw" class="p" x="125" y="58" transform="rotate(100 125 58)" style="animation-delay:.5s"/>
+<use href="#paw" class="p" x="170" y="40" transform="rotate(80 170 40)" style="animation-delay:1s"/>
+<use href="#paw" class="p" x="215" y="58" transform="rotate(100 215 58)" style="animation-delay:1.5s"/>
+<use href="#paw" class="p" x="260" y="40" transform="rotate(80 260 40)" style="animation-delay:2s"/>
+</g>
+<text class="t" x="600" y="52" font-size="20" fill="#efe3c8" text-anchor="middle">thanks for stopping by ~</text>
+<text class="t" x="600" y="80" font-size="14" fill="#8c8aa3" text-anchor="middle">take a break, stretch a little, drink some water ☕</text>
+<text class="t" x="1120" y="60" font-size="22" fill="#b9b1c9" text-anchor="middle" opacity=".8">₍^. .^₎⟆</text>
+</svg>
