@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="now playing: what burak is working on">
+<defs>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .05 0"/></filter>
+<radialGradient id="vinyl"><stop offset="0" stop-color="#3a3a4a"/><stop offset="1" stop-color="#1f2030"/></radialGradient>
+<style>
+.spin{animation:spin 9s linear infinite;transform-origin:150px 150px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.prog{animation:prog 60s linear infinite}
+@keyframes prog{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.dot{animation:dot 60s linear infinite}
+@keyframes dot{from{transform:translateX(0)}to{transform:translateX(560px)}}
+.eq rect{animation:eq 1.6s ease-in-out infinite;transform-origin:0 0;transform-box:fill-box}
+@keyframes eq{0%,100%{transform:scaleY(.35)}50%{transform:scaleY(1)}}
+.t{font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif}
+.m{font-family:"JetBrains Mono","Cascadia Code",Consolas,Menlo,monospace}
+</style>
+</defs>
+<rect x="1" y="1" width="1198" height="298" rx="16" fill="#2c2e43" stroke="#4a4c68" stroke-width="2"/>
+<g class="spin">
+<circle cx="150" cy="150" r="104" fill="url(#vinyl)"/>
+<circle cx="150" cy="150" r="92" fill="none" stroke="#2a2b3a" stroke-width="1"/>
+<circle cx="150" cy="150" r="80" fill="none" stroke="#2a2b3a" stroke-width="1"/>
+<circle cx="150" cy="150" r="68" fill="none" stroke="#2a2b3a" stroke-width="1"/>
+<path d="M104 96 A70 70 0 0 1 196 96" fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-width="10"/>
+<circle cx="150" cy="150" r="40" fill="#e8b4a0"/>
+<text class="m" x="150" y="133" font-size="9" fill="#5b4a3d" text-anchor="middle" letter-spacing="2">SIDE A</text>
+<text class="t" x="150" y="174" font-size="10" fill="#5b4a3d" text-anchor="middle" font-style="italic">lo-fi builds</text>
+<circle cx="150" cy="150" r="9" fill="none" stroke="#5b4a3d" stroke-opacity=".3"/>
+<circle cx="150" cy="150" r="4" fill="#2c2e43"/>
+</g>
+<text class="m" x="300" y="62" font-size="13" fill="#9fb8a4" letter-spacing="3">♪ NOW PLAYING</text>
+<g class="eq" fill="#9fb8a4">
+<rect x="460" y="50" width="4" height="14" style="animation-delay:0s"/>
+<rect x="467" y="50" width="4" height="14" style="animation-delay:.4s"/>
+<rect x="474" y="50" width="4" height="14" style="animation-delay:.8s"/>
+</g>
+<text class="t" x="300" y="102" font-size="30" font-weight="600" fill="#efe3c8">designing an ai-accelerator chip</text>
+<text class="t" x="300" y="132" font-size="16" fill="#b7b0c8">burak · teknofest chip design · fpga → silicon</text>
+<rect x="300" y="156" width="560" height="4" rx="2" fill="#44465f"/>
+<rect class="prog" x="300" y="156" width="560" height="4" rx="2" fill="#e8b4a0" style="transform-origin:300px 0"/>
+<circle class="dot" cx="300" cy="158" r="6" fill="#efe3c8"/>
+<text class="m" x="300" y="184" font-size="12" fill="#8c8aa3">now</text>
+<text class="m" x="860" y="184" font-size="12" fill="#8c8aa3" text-anchor="end">∞</text>
+<g fill="#b7b0c8" opacity=".85">
+<path d="M520 205 v18 l-14 -9 z M502 205 h3 v18 h-3 z"/>
+<rect x="572" y="205" width="5" height="18" rx="1"/><rect x="583" y="205" width="5" height="18" rx="1"/>
+<path d="M640 205 v18 l14 -9 z M655 205 h3 v18 h-3 z"/>
+</g>
+<line x1="900" y1="40" x2="900" y2="260" stroke="#44465f"/>
+<text class="m" x="930" y="62" font-size="13" fill="#c9a0a0" letter-spacing="3">UP NEXT</text>
+
+<text class="m" x="930" y="104" font-size="12" fill="#6f6d88">01</text>
+<text class="t" x="958" y="104" font-size="16" fill="#efe3c8">fpv drone tracking</text>
+<text class="t" x="958" y="122" font-size="12.5" fill="#8c8aa3">teknofest</text>
+<text class="m" x="930" y="148" font-size="12" fill="#6f6d88">02</text>
+<text class="t" x="958" y="148" font-size="16" fill="#efe3c8">proxmox homelab</text>
+<text class="t" x="958" y="166" font-size="12.5" fill="#8c8aa3">intel n100 mini pc</text>
+<text class="m" x="930" y="192" font-size="12" fill="#6f6d88">03</text>
+<text class="t" x="958" y="192" font-size="16" fill="#efe3c8">python &amp; ml experiments</text>
+<text class="t" x="958" y="210" font-size="12.5" fill="#8c8aa3">eee213</text>
+<text class="m" x="930" y="236" font-size="12" fill="#6f6d88">04</text>
+<text class="t" x="958" y="236" font-size="16" fill="#efe3c8">circuit &amp; logic labs</text>
+<text class="t" x="958" y="254" font-size="12.5" fill="#8c8aa3">late nights ☕</text>
+<rect width="1200" height="300" rx="16" filter="url(#grain)"/></svg>
