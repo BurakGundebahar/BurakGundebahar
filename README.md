@@ -18,10 +18,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-2c2e43?style=flat-square&logo=python&logoColor=efe3c8" alt="python" />
-  <img src="https://img.shields.io/badge/verilog-2c2e43?style=flat-square" alt="verilog" />
-  <img src="https://img.shields.io/badge/fpga-2c2e43?style=flat-square" alt="fpga" />
+  <img src="https://img.shields.io/badge/numpy-2c2e43?style=flat-square&logo=numpy&logoColor=efe3c8" alt="numpy" />
+  <img src="https://img.shields.io/badge/pandas-2c2e43?style=flat-square&logo=pandas&logoColor=efe3c8" alt="pandas" />
+  <img src="https://img.shields.io/badge/machine%20learning-2c2e43?style=flat-square" alt="machine learning" />
+  <img src="https://img.shields.io/badge/automation-2c2e43?style=flat-square" alt="industrial automation" />
+  <img src="https://img.shields.io/badge/rocketry-2c2e43?style=flat-square" alt="rocketry" />
   <img src="https://img.shields.io/badge/linux-2c2e43?style=flat-square&logo=linux&logoColor=efe3c8" alt="linux" />
-  <img src="https://img.shields.io/badge/proxmox-2c2e43?style=flat-square&logo=proxmox&logoColor=efe3c8" alt="proxmox" />
   <img src="https://img.shields.io/badge/git-2c2e43?style=flat-square&logo=git&logoColor=efe3c8" alt="git" />
 </p>
 
