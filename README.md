@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/now-playing.svg" width="100%" alt="now playing: building a teknofest rocket. up next: industrial automation, machine learning" />
+  <img src="assets/projects.svg" width="100%" alt="my projects: teknofest rocket, industrial automation, machine learning" />
 </p>
 
 <h3 align="center">🧰 things on my desk</h3>
