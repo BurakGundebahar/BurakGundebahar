@@ -34,8 +34,8 @@
 <rect x="467" y="50" width="4" height="14" style="animation-delay:.4s"/>
 <rect x="474" y="50" width="4" height="14" style="animation-delay:.8s"/>
 </g>
-<text class="t" x="300" y="102" font-size="30" font-weight="600" fill="#efe3c8">designing an ai-accelerator chip</text>
-<text class="t" x="300" y="132" font-size="16" fill="#b7b0c8">burak · teknofest chip design · fpga → silicon</text>
+<text class="t" x="300" y="102" font-size="30" font-weight="600" fill="#efe3c8">building a teknofest rocket</text>
+<text class="t" x="300" y="132" font-size="16" fill="#b7b0c8">burak · teknofest · rocketry</text>
 <rect x="300" y="156" width="560" height="4" rx="2" fill="#44465f"/>
 <rect class="prog" x="300" y="156" width="560" height="4" rx="2" fill="#e8b4a0" style="transform-origin:300px 0"/>
 <circle class="dot" cx="300" cy="158" r="6" fill="#efe3c8"/>
@@ -49,16 +49,10 @@
 <line x1="900" y1="40" x2="900" y2="260" stroke="#44465f"/>
 <text class="m" x="930" y="62" font-size="13" fill="#c9a0a0" letter-spacing="3">UP NEXT</text>
 
-<text class="m" x="930" y="104" font-size="12" fill="#6f6d88">01</text>
-<text class="t" x="958" y="104" font-size="16" fill="#efe3c8">fpv drone tracking</text>
-<text class="t" x="958" y="122" font-size="12.5" fill="#8c8aa3">teknofest</text>
-<text class="m" x="930" y="148" font-size="12" fill="#6f6d88">02</text>
-<text class="t" x="958" y="148" font-size="16" fill="#efe3c8">proxmox homelab</text>
-<text class="t" x="958" y="166" font-size="12.5" fill="#8c8aa3">intel n100 mini pc</text>
-<text class="m" x="930" y="192" font-size="12" fill="#6f6d88">03</text>
-<text class="t" x="958" y="192" font-size="16" fill="#efe3c8">python &amp; ml experiments</text>
-<text class="t" x="958" y="210" font-size="12.5" fill="#8c8aa3">eee213</text>
-<text class="m" x="930" y="236" font-size="12" fill="#6f6d88">04</text>
-<text class="t" x="958" y="236" font-size="16" fill="#efe3c8">circuit &amp; logic labs</text>
-<text class="t" x="958" y="254" font-size="12.5" fill="#8c8aa3">late nights ☕</text>
+<text class="m" x="930" y="116" font-size="12" fill="#6f6d88">01</text>
+<text class="t" x="958" y="116" font-size="16" fill="#efe3c8">industrial automation</text>
+<text class="t" x="958" y="134" font-size="12.5" fill="#8c8aa3">control &amp; automation</text>
+<text class="m" x="930" y="180" font-size="12" fill="#6f6d88">02</text>
+<text class="t" x="958" y="180" font-size="16" fill="#efe3c8">machine learning</text>
+<text class="t" x="958" y="198" font-size="12.5" fill="#8c8aa3">python · eee213</text>
 <rect width="1200" height="300" rx="16" filter="url(#grain)"/></svg>

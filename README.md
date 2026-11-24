@@ -4,14 +4,14 @@
 
 <p align="center">
   hi, i'm burak 🌙 — an electrical &amp; electronics engineering student at i̇kçü, i̇zmir.<br/>
-  i tinker with circuits, digital logic and fpgas, chase drones every now and then,<br/>
-  and keep a tiny homelab humming quietly in the corner.
+  i work on industrial automation and machine learning,<br/>
+  and help build a rocket for teknofest.
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="assets/now-playing.svg" width="100%" alt="now playing: designing an ai-accelerator chip for teknofest. up next: fpv drone tracking, proxmox homelab, python &amp; ml experiments, circuit &amp; logic labs" />
+  <img src="assets/now-playing.svg" width="100%" alt="now playing: building a teknofest rocket. up next: industrial automation, machine learning" />
 </p>
 
 <h3 align="center">🧰 things on my desk</h3>
